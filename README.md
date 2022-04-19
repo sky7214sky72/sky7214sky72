@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky7214sky72&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sky72145)](https://solved.ac/sky72145)
 <img src="http://mazandi.herokuapp.com/api?handle=sky72145&theme=warm"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky7214sky72&show_icons=true&theme=radical)
