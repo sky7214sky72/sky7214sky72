@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky7214sky72&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sky72145)](https://solved.ac/sky72145)
 <img src="http://mazandi.herokuapp.com/api?handle=sky72145&theme=warm"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky7214sky72&show_icons=true&theme=radical)
-</div>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky7214sky72)](https://github.com/sky7214sky72/github-readme-stats) -->
 
