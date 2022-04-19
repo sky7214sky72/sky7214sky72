@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky7214sky72&show_icons=true&theme=radical)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky7214sky72@naver.com)](https://solved.ac/sky7214sky72@naver.com)
