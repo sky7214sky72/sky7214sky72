@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle=sky72145&theme=warm"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky7214sky72&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky7214sky72)](https://github.com/sky7214sky72/github-readme-stats)
