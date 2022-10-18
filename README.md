@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=cws070993)](https://solved.ac/cws070993)
-<img src="http://mazandi.herokuapp.com/api?handle=cws070993&theme=warm"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky7214sky72&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky7214sky72&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)](https://github.com/sky7214sky72/github-readme-stats)
