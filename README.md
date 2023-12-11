@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cws070993)](https://solved.ac/cws070993)\n
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cws070993)](https://solved.ac/cws070993)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky7214sky72)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky7214sky72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
