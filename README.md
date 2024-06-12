@@ -11,13 +11,15 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-        <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
-        <img src="https://img.shields.io/badge/github actions-black?style=for-the-badge&logo=githubactions&logoColor=white"> 
+        <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">         
     </div>
     <div>
         <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
         <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
     </div>  
+    <div>
+        <img src="https://img.shields.io/badge/github actions-black?style=for-the-badge&logo=githubactions&logoColor=white"> 
+    </div>    
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
